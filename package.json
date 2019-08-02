@@ -4,7 +4,7 @@
   "description": "Demo of ReactJS + Spring Data REST",
   "repository": {
     "type": "git",
-    "url": "git@github.com:spring-guides/tut-react-and-spring-data-rest.git"
+    "url": "https://github.com/nickadams93/JamSearch2"
   },
   "keywords": [
     "rest",
@@ -16,9 +16,9 @@
   "author": "Nicholas Adams",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "hhttps://github.com/nickadams93/JamSearch"
+    "url": "hhttps://github.com/nickadams93/JamSearch2"
   },
-  "homepage": "https://github.com/nickadams93/JamSearch",
+  "homepage": "https://github.com/nickadams93/JamSearch2",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
